@@ -6,7 +6,7 @@ add some important text here
 
 blah blah blah
 
-need to comming the new changes but first run
+what happened here
 
 git status 
 
