@@ -11,3 +11,7 @@ need to comming the new changes but first run
 git status 
 
 to see all the files that were updated/commited
+
+briana told me do something
+
+and here too
