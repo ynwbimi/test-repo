@@ -12,6 +12,6 @@ git status
 
 to see all the files that were updated/commited
 
-## new lines from briana
+briana told me do something
 
-new words from briana branch
+and here too
